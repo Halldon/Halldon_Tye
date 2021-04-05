@@ -1,0 +1,9 @@
+.Models {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.model-link {
+    display: block;
+}
